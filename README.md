@@ -22,3 +22,7 @@ No extra libraries are required.
 
 The program contains no networking code, telemetry, accounts, cloud features or save files.
 Open source and licenced via the MIT Licence 2026 ©.
+
+# License
+
+Open source and licenced via the MIT Licence 2026 ©.
